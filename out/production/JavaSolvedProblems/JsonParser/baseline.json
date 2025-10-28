@@ -1,0 +1,2327 @@
+[
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 82
+  },
+  {
+    "owningEntityId": "LAG8023adAggPort",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "IpFlowPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 20
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELEXPLICITPATH",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointHoPath",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 90
+  },
+  {
+    "owningEntityId": "TdmCemPseudowireFlowpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "SonetHopProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 90
+  },
+  {
+    "owningEntityId": "TdmCmPWCnPrtclEndpnt",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "rntPWCnnctnPrtclEndpnt3",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 13
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 76
+  },
+  {
+    "owningEntityId": "EvpnVpwsEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "SonetHopProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 111
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 81
+  },
+  {
+    "owningEntityId": "LAG8023adAggPort",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 92
+  },
+  {
+    "owningEntityId": "TdmCemPseudowireFlowpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "BgpNeighborInfo",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointHoPath",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 111
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "MplsTTnnlPrtclEndpnt",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "BgpNeighborInfo",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "EthernetP2PForwarder",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELEXPLICITPATH",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "EoamPMMeastInstanceSettings",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 37
+  },
+  {
+    "owningEntityId": "EoamPMMeastInstanceSettings",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 47
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 92
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 76
+  },
+  {
+    "owningEntityId": "Vrf",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "LAG8023adAggPort",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELEXPLICITPATH",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "BgpNeighborInfo",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "PtpClock",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointLoPath",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 671
+  },
+  {
+    "owningEntityId": "rntPWCnnctnPrtclEndpnt3",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "BgpNeighborInfo",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 7
+  },
+  {
+    "owningEntityId": "TETUNNELSPEC",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointLoPath",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 924
+  },
+  {
+    "owningEntityId": "IpFlowPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "TdmCemGroupFpClassSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "TdmCemGroupFlowpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "IsisLinkTerminationPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "EthernetP2PForwarder",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "rntPWCnnctnPrtclEndpnt3",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 308
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 268
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELPATHINFO",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 20
+  },
+  {
+    "owningEntityId": "SonetProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "BridgeVirtualInterface",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "EthernetP2PForwarder",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 13
+  },
+  {
+    "owningEntityId": "TETUNNELSPEC",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "VrtlBrdgInstncFlwpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "TdmCemP2PForwarder",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 64
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 86
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "SonetProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 15
+  },
+  {
+    "owningEntityId": "EoamPMMeastInstanceSettings",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TETUNNELSPEC",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "EoamPMMeastInstanceSettings",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "Vrf",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "VrtlBrdgInstncFlwpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELPATHINFO",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "MplsTeTunnelLspInfo",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 76
+  },
+  {
+    "owningEntityId": "PseudowireEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 31
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 18
+  },
+  {
+    "owningEntityId": "EthernetP2PForwarder",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 26
+  },
+  {
+    "owningEntityId": "EoamPMMeastInstanceSettings",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "LAG8023adAggPort",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "IpFlowPoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TdmCemGroupFlowpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 67
+  },
+  {
+    "owningEntityId": "PtpClock",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TdmCemPseudowireFlowpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELPATHINFO",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 46
+  },
+  {
+    "owningEntityId": "MplsTeTunnelLspInfo",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 26
+  },
+  {
+    "owningEntityId": "TETUNNELSPEC",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EoamPMMeastInstanceSettings",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TETUNNELSPEC",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PseudowireEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 40
+  },
+  {
+    "owningEntityId": "MplsTeTunnelLspInfo",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 25
+  },
+  {
+    "owningEntityId": "IpFlowPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "rntPWCnnctnPrtclEndpnt3",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 26
+  },
+  {
+    "owningEntityId": "TdmLopProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 700
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "IpFlowPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "EthernetP2PForwarder",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 18
+  },
+  {
+    "owningEntityId": "Vrf",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 7
+  },
+  {
+    "owningEntityId": "LAGNeighborInfo",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "RouteTargetEndPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "TETUNNELEXPLICITPATHSETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EoamPMMeastInstanceSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "TdmCemGroupFlowpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 67
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 13
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "MplsTeTunnelLspInfo",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 34
+  },
+  {
+    "owningEntityId": "TdmCmPsdwrFlwpnt",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "VrfAfSettings",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "LAGNeighborInfo",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELEXPLICITPATHSETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TdmLopProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 336
+  },
+  {
+    "owningEntityId": "EviEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "IpFlowPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "Vrf",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELDESTINATION",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "IsisNeighborInfo",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 11
+  },
+  {
+    "owningEntityId": "TETUNNELSETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "TailTeTunnelFlowpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "rntPWCnnctnPrtclEndpnt3",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "PseudowireEndpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 44
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELSETTINGS",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELEXPLICITPATHSETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELSETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATIONPATHOPTION",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 63
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "TETUNNELSPEC",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TailTeTunnelFlowpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "SonetProtocolEndpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointPool",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 94
+  },
+  {
+    "owningEntityId": "TETUNNELSETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATIONPATHOPTION",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PseudowireEndpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 37
+  },
+  {
+    "owningEntityId": "BridgeVirtualInterface",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "RoutingNeighborInfo",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TdmCemPseudowireFlowpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 13
+  },
+  {
+    "owningEntityId": "IsisNeighborInfo",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TdmCemP2PForwarder",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 40
+  },
+  {
+    "owningEntityId": "SonetLopProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 224
+  },
+  {
+    "owningEntityId": "EthrntPsdwrEndpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 26
+  },
+  {
+    "owningEntityId": "MaintenanceEndPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 11
+  },
+  {
+    "owningEntityId": "PseudowireEndpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "TdmCmGrpPrtclEndpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 67
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELDESTINATION",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "MplsTeTunnelLspInfo",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 65
+  },
+  {
+    "owningEntityId": "SonetHopProtocolEndpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "IsisNeighborInfo",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELDESTINATION",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELSETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "TdmCemProtectionGrpFlowpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELEXPLICITPATHSETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "BridgeVirtualInterface",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "TETUNNELSETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "SonetLopProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 335
+  },
+  {
+    "owningEntityId": "TailTeTunnelFlowpoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "MaintenanceEndPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TailTeTunnelFlowpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "PseudowireEndpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EviProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELSETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 101
+  },
+  {
+    "owningEntityId": "IsisNeighborInfo",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TETUNNELSETTINGS",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "Vrf",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EthMaintenancePoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "LdpLinkTerminationPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthMaintenancePoint",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 35
+  },
+  {
+    "owningEntityId": "MaintenanceEndPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 20
+  },
+  {
+    "owningEntityId": "EthMaintenancePoint",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 40
+  },
+  {
+    "owningEntityId": "RoutingNeighborInfo",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "LdpLinkTerminationPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "BgpNeighborInfo",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "MPLSTENESETTINGS",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "IsisLinkTerminationPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 11
+  },
+  {
+    "owningEntityId": "TailTeTunnelFlowpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 39
+  },
+  {
+    "owningEntityId": "bgpneighbor",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATIONPATHOPTION",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 27
+  },
+  {
+    "owningEntityId": "TdmCemGroupFpClassSettings",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "BgpNeighborInfo",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "EthMaintenancePoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "T1ProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 48
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "TETUNNELSETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointPool",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELDESTINATION",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "RoutingNeighborInfo",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "PwProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 31
+  },
+  {
+    "owningEntityId": "MaintenanceEndPoint",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 40
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELEXPLICITPATH",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "MaintenanceEndPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "MaintenanceEndPoint",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 35
+  },
+  {
+    "owningEntityId": "TdmCmPrtctnGrpFlwpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MPLSPEPSETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELDESTINATION",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATION",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "ManagedNetworkElement",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "T1ProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 48
+  },
+  {
+    "owningEntityId": "MPLSPEPSETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "BgpNeighborInfo",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "LdpLinkTerminationPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "L2TRANSPORTINTERFACESETTINGS",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "TdmMdlSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 28
+  },
+  {
+    "owningEntityId": "IsisLinkTerminationPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "PwProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 40
+  },
+  {
+    "owningEntityId": "IsisLinkTerminationPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATION",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "RoutingNeighborInfo",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "PhysicalProtocolEndpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 11
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "RoutingVrfSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "QoSPolicyRFS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "RoutingNeighborInfo",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "IsisLinkTerminationPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "SonetHopProtocolEndpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "EthMaintenancePoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 20
+  },
+  {
+    "owningEntityId": "IsisNeighborInfo",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "TdmMdlSettings",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "TeTunnelFlowpoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATIONPATHOPTION",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "TeTunnelFlowpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "MaintenanceEndPoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATIONPATHOPTION",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 51
+  },
+  {
+    "owningEntityId": "LdpLinkTerminationPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "RoutingNeighborInfo",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "PwProtocolEndpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 44
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 61
+  },
+  {
+    "owningEntityId": "OptclPhysclPrtclEndpnt",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "EthrntPsdwrEndpnt",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 60
+  },
+  {
+    "owningEntityId": "MplsProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 58
+  },
+  {
+    "owningEntityId": "TdmCmGrpPrtclEndpnt",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "IpProtocolEndpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATION",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "TETUNNELBIDIRECTIONALSETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 18
+  },
+  {
+    "owningEntityId": "EthMaintenancePoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 11
+  },
+  {
+    "owningEntityId": "TeTunnelFlowpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 31
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATION",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 35
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 40
+  },
+  {
+    "owningEntityId": "TETUNNELBIDIRECTIONALSETTINGS",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "OchFcltyPrtclEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "LoopbackInterface",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "LdpLinkTerminationPoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthrntPrtclEndpntExtndd",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "TETUNNELDESTINATION",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "TeTunnelFlowpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 18
+  },
+  {
+    "owningEntityId": "EthMaintenancePoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "TETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "TETUNNELSPEC",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "LdpLinkTerminationPoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "EthernetP2PForwarder",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "BgpLinkTerminationPoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TeTunnelFlowpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 32
+  },
+  {
+    "owningEntityId": "IpProtocolEndpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "VrtlFrwrdngInstncEFP",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELBIDIRECTIONALSETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 27
+  },
+  {
+    "owningEntityId": "TETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TETUNNELBIDIRECTIONALSETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "IpProtocolEndpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "LoopbackInterface",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetFlowDomain",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EvpnL2vpnRouteSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "PwProtocolEndpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "VrfAfSettings",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MplsProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 32
+  },
+  {
+    "owningEntityId": "VrtlFrwrdngInstncEFP",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetBridge",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 46
+  },
+  {
+    "owningEntityId": "TdmCmPWCnPrtclEndpnt",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "EthernetBridge",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 38
+  },
+  {
+    "owningEntityId": "LdpLinkTerminationPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetBridge",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "OchFcltyPrtclEndpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "LoopbackInterface",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 81
+  },
+  {
+    "owningEntityId": "LoopbackInterface",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "PwProtocolEndpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "TdmCemP2PForwarder",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "TETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "EthernetBridge",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "EthrntPrtclEndpntExtndd",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "TETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "SntPrtctnGrpPrtclEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EoamPMInstanceSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "MplsProtocolEndpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "MplsProtocolEndpoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "T3ProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 28
+  },
+  {
+    "owningEntityId": "TdmCmGrpPrtclEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 67
+  },
+  {
+    "owningEntityId": "EoamPMInstanceSettings",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TdmCmPWCnPrtclEndpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "EthrntPrtclEndpntExtndd",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 18
+  },
+  {
+    "owningEntityId": "EoamPMInstanceSettings",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 37
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "EthrntPsdwrEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "EoamPMInstanceSettings",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 47
+  },
+  {
+    "owningEntityId": "MplsProtocolEndpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "T3ProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "VrfAfSettings",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MplsTTnnlDstntnPthOptn",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 51
+  },
+  {
+    "owningEntityId": "EthernetBridge",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "EthrntPrtclEndpntExtndd",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "OchFcltyPrtclEndpnt",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "MplsProtocolEndpoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthrntPsdwrEndpnt",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELSETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "TdmCmPWCnPrtclEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "IpFlowPoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "EthrntPrtclEndpntExtndd",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 11
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointPool",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 79
+  },
+  {
+    "owningEntityId": "EthernetFlowPointPool",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "MplsTTnnlDstntnPthOptn",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "EvpnVpwsProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "OpticalInterfacePEP",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "MPLSTENESETTINGS",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "TdmCemP2PForwarder",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 19
+  },
+  {
+    "owningEntityId": "Bgpneighboraddrfamilysettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthrntPsdwrEndpnt",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "OptclPhysclPrtclEndpnt",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "VrfAfSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 7
+  },
+  {
+    "owningEntityId": "MplsTTnnlDstntnPthOptn",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 27
+  },
+  {
+    "owningEntityId": "TETUNNELBIDIRECTIONALSETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 19
+  },
+  {
+    "owningEntityId": "BgpLinkTerminationPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "MplsTTnnlDstntnPthOptn",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "MPLSTENESETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "LAGLinkTerminationPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "BgpLinkTerminationPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TdmCemGroupFlowpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELPATHINFO",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "SwitchPort",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "SonetProtocolEndpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "VrfAfSettings",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "GenericControllerPort",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 66
+  },
+  {
+    "owningEntityId": "MPLSTENESETTINGS",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "SwitchPort",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "IntrfcPrtclEndpnt",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "IntrfcPrtclEndpnt",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "EvpnL2vpnSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 37
+  },
+  {
+    "owningEntityId": "LAGNeighborInfo",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "LoopbackInterface",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 47
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 29
+  },
+  {
+    "owningEntityId": "LAGLinkTerminationPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "OpticalInterfacePEP",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "MPLSTENESETTINGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "IntrfcPrtclEndpnt",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "BgpLinkTerminationPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EoamPMInstanceSettings",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 16
+  },
+  {
+    "owningEntityId": "OpticalInterfacePEP",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "MPLSTENESETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "MPLSTTNNLBDRCTNLSTTNGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 18
+  },
+  {
+    "owningEntityId": "TdmCmGrpPrtclEndpnt",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "EoamPMInstanceSettings",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "LAGNeighborInfo",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TdmCmPsdwrFlwpnt",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 9
+  },
+  {
+    "owningEntityId": "VrtlBrdgInstncFlwpnt",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "MPLSTTNNLBDRCTNLSTTNGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 19
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 31
+  },
+  {
+    "owningEntityId": "EthrntPrtclEndpntExtndd",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "OpticalInterfacePEP",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 34
+  },
+  {
+    "owningEntityId": "BgpLinkTerminationPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "MplsTTnnlDstntnPthOptn",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 63
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointHoPath",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "VfCnnctnPrtclEndpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "EoamPMInstanceSettings",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "VfCnnctnPrtclEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "OpticalInterfacePEP",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELPATHINFO",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "MplsLinkTerminationPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "TdmCmPsdwrFlwpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "MplsTTnnlPrtclEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "rntPWCnnctnPrtclEndpnt3",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "MPLSTTNNLBDRCTNLSTTNGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "TdmCemClassSettings",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "IntrfcPrtclEndpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "TeTunnelLspEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 34
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MplsLinkTerminationPoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointPool",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.226",
+    "baseLineCount": 92
+  },
+  {
+    "owningEntityId": "LAGLinkTerminationPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "TdmCemClassSettings",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.228",
+    "baseLineCount": 76
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EthernetFlowPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "MplsLinkTerminationPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 13
+  },
+  {
+    "owningEntityId": "TeTunnelLspEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 27
+  },
+  {
+    "owningEntityId": "IpProtocolEndpoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "TdmCmPsdwrFlwpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "LoopbackInterface",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TdmCemFlowpointHoPath",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 12
+  },
+  {
+    "owningEntityId": "MPLSTENESETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 6
+  },
+  {
+    "owningEntityId": "BgpLinkTerminationPoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "GenericControllerPort",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 229
+  },
+  {
+    "owningEntityId": "MplsTTnnlPrtclEndpnt",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "IpProtocolEndpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 18
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 14
+  },
+  {
+    "owningEntityId": "LoopbackInterface",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MPLSTTNNLBDRCTNLSTTNGS",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EthernetSubInterface",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 5
+  },
+  {
+    "owningEntityId": "IpProtocolEndpoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "MplsTTnnlPrtclEndpnt",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "TeTunnelLspEndpoint",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 69
+  },
+  {
+    "owningEntityId": "PwProtocolEndpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 37
+  },
+  {
+    "owningEntityId": "EthrntPsdwrEndpnt",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 3
+  },
+  {
+    "owningEntityId": "TeTunnelLspEndpoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 67
+  },
+  {
+    "owningEntityId": "MplsLinkTerminationPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 10
+  },
+  {
+    "owningEntityId": "MplsTTnnlPrtclEndpnt",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 4
+  },
+  {
+    "owningEntityId": "L2LinkTerminationPoint",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 17
+  },
+  {
+    "owningEntityId": "MPLSTETUNNELBFDSETTINGS",
+    "device_ip": "40.40.15.139",
+    "baseLineCount": 43
+  },
+  {
+    "owningEntityId": "L2NeighborInfo",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EthrntPrtclEndpntExtndd",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 29
+  },
+  {
+    "owningEntityId": "IntrfcPrtclEndpnt",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "MPLSTTNNLBDRCTNLSTTNGS",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 27
+  },
+  {
+    "owningEntityId": "BgpLinkTerminationPoint",
+    "device_ip": "40.40.15.140",
+    "baseLineCount": 1
+  },
+  {
+    "owningEntityId": "IpProtocolEndpoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 20
+  },
+  {
+    "owningEntityId": "RoutingNeighborInfo",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "MplsProtocolEndpoint",
+    "device_ip": "40.40.15.23",
+    "baseLineCount": 2
+  },
+  {
+    "owningEntityId": "EoamPmMeastSettings",
+    "device_ip": "40.40.15.167",
+    "baseLineCount": 30
+  },
+  {
+    "owningEntityId": "MplsLinkTerminationPoint",
+    "device_ip": "40.40.15.109",
+    "baseLineCount": 8
+  },
+  {
+    "owningEntityId": "GenericControllerPort",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 66
+  },
+  {
+    "owningEntityId": "TeTunnelLspEndpoint",
+    "device_ip": "40.40.15.130",
+    "baseLineCount": 26
+  },
+  {
+    "owningEntityId": "ETHMNTNNCENTTYGRPSTTNGS",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 21
+  },
+  {
+    "owningEntityId": "LAGLinkTerminationPoint",
+    "device_ip": "40.40.15.116",
+    "baseLineCount": 1
+  }
+]
