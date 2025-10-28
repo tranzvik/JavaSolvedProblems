@@ -1,0 +1,255 @@
+ /* System.out.println("Demo");
+       //Downcasting
+        Cat cat;
+        Mammal mammal = new Cat();
+        if(mammal instanceof Cat){
+            cat = (Cat)mammal;
+            cat.parentMethod();
+        }*/
+
+/*List<Integer> list1 = Arrays.asList(1,2,3,1,5,2,7,9,3,1);
+        Map<Integer,Long> hm = new HashMap<>();
+        hm = list1.stream().collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
+        System.out.println(hm);
+
+        employeeList.stream().collect(Collectors.groupingBy(Employee::getGender, Collectors.averagingInt(Employee::getAge)
+
+        integers.stream()
+                .collect(Collectors.summingInt(Integer::intValue));*/
+
+        //String sql="select sep.id, sep.classname, sep.endpointrfs_id , eprfs.owningcfsid, eprfs.name as interfacename, eprfs.owningentityid, ltp.ippep_id,  svcip.ss_paddrss3_address as ipaddress, svcip.ipaddresses_type, svcip.address_isinversemask,svcip.ddrss_pmsk_address,svcip.ddrss_pmsk_addresstype, svcip.l3mplsvpnsrvcendpnt_id, sep.authEntityId, sep.authEntityClass, device.name as device, netwkEl.MNGMNTADDRSS_ADDRESS from serviceendpoint sep, endpointrfs eprfs, SrvcEndPnt9_ipAddresses svcip, linkterminationpoint ltp ,networkresource device, networkelement netwkEl where sep.virtualconnection_id in (:ids) and sep.endpointrfs_id=eprfs.endpointrfs_id and svcip.l3mplsvpnsrvcendpnt_id=sep.id and sep.endpointrfs_id = ltp.ID and svcip.ipaddresses_type!=2 and svcip.ipaddresses_type!=4 and device.owningEntityId=eprfs.owningEntityId and device.classname='ManagedNetworkElement' and device.id=netwkEl.networkelement_id AND( LOWER(svcip.ss_paddrss3_address) like LOWER('%10.52.6%') AND LOWER(eprfs.name) NOT LIKE LOWER('%Ten%')) limit 10 offset 0";
+        //sql = sql.replace("LOWER(svcip.ss_paddrss3_address)","LOWER(REPLACE(svcip.ss_paddrss3_address,' ',''))");
+        //    System.out.println(sql);
+//UsingZoneOffset();
+
+      // withoutDayLightSavings();
+
+//usingNewJava8API();
+        //serverCheck();
+       // System.out.println(TimeZone.getDefault().getID());
+
+        //formatDate();
+       // existingMethod();
+       // System.out.println(ZoneId.of("+5:30"));
+      // ZoneOffset  zoneOffset = ZoneOffset.of("+02:00");
+      //  System.out.println(zoneOffset);
+
+       // Arrays.stream(TimeZone.getAvailableIDs(14400000)).forEach(System.out::println);
+
+checkSumPair();
+    }
+
+    public static void withoutDayLightSavings() throws ParseException {
+        String s1 = "-2022-06-20T05:38:09Z";
+        String offsetTz = "14400000";
+        int offsetTzInt = 14400000;
+
+        SimpleTimeZone tz = null;
+
+        tz = new SimpleTimeZone(-1 * offsetTzInt, "Browser_Request_Timezone");
+
+        SimpleDateFormat input = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
+        SimpleDateFormat output = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss a");
+        ((DateFormat)output).setTimeZone(tz);
+
+        try
+        {
+            // Date d = input.parse("2018-02-02T06:54:57.744Z");
+            Date d = input.parse("2022-06-20T05:38:09Z");
+            //System.out.println(d);
+            // System.out.println("Output:"+ output.format(d));
+        }
+        catch (ParseException e)
+        {
+            e.printStackTrace();
+        }
+
+        // String inputDatetring ="-2022-06-20T05:38:09Z";
+        String inputDatetring ="2022-07-01 07:33:42.227";
+
+        int offsetValue = 14400000;
+        //SimpleDateFormat givenTimeFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
+        SimpleDateFormat givenTimeFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SS");
+        SimpleDateFormat reqdFormat = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss a z");
+        // reqdFormat.setTimeZone(TimeZone.getTimeZone("EST"));
+        Date d = givenTimeFormat.parse(inputDatetring);
+        String op = reqdFormat.format(d);
+        System.out.println("Value:"+op);
+
+        // Arrays.stream(TimeZone.getAvailableIDs()).forEach(s-> System.out.println(s));
+
+        SimpleTimeZone tmz = null;
+
+        tmz = new SimpleTimeZone(-1 * offsetValue, "Browser_Request_Timezone");
+        System.out.println(TimeZone.getAvailableIDs(offsetValue));
+
+    }
+
+    public static void usingNewJava8API() {
+
+           String INPUT_DATE_FORMAT = "yyyy-MM-dd HH:mm:ss.[SSS][SS][S]";
+           String OUTPUT_DATE_FORMAT= "dd-MMM-yyyy HH:mm:ss a z";
+
+        // ZoneId singaporeZoneId = ZoneId.of("Asia/Singapore");
+        ZoneId australiaZoneId = ZoneId.of("America/Lima");
+        System.out.println("test:"+australiaZoneId);
+
+        //String dateInString = "2022-07-01 07:33:42.227";
+        String dateInString = "2018-03-25 01:55:42.2";
+        LocalDateTime ldt = LocalDateTime.parse(dateInString, DateTimeFormatter.ofPattern(INPUT_DATE_FORMAT));
+
+        // ZonedDateTime asiaZonedDateTime = ldt.atZone(singaporeZoneId);
+         ZonedDateTime UTCZonedDateTime = ZonedDateTime.of(ldt,ZoneId.of("UTC"));
+         ZonedDateTime ausTime = UTCZonedDateTime.withZoneSameInstant(australiaZoneId);
+
+        System.out.println(UTCZonedDateTime);
+        System.out.println(":::::"+ausTime);
+        try {
+            DateTimeFormatter format = DateTimeFormatter.ofPattern(OUTPUT_DATE_FORMAT);
+            System.out.println("\n---After Formating---");
+            System.out.println("UTC Output : " + format.format(UTCZonedDateTime));
+            System.out.println("Aus Output : " + format.format(ausTime));
+        }
+        catch (Exception e){
+            System.out.println("caught:"+e);
+        }
+       // ZoneId.getAvailableZoneIds().stream().forEach(System.out::println);
+        //Arrays.stream(TimeZone.getAvailableIDs()).forEach(System.out::println);
+    }
+
+    public static void formatDate() {
+        String time ="2022-07-01 07:33:42.227";
+        String op = "";
+
+        try {
+
+            SimpleDateFormat givenTimeFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS");
+            SimpleDateFormat reqdFormat = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss a z");
+            reqdFormat.setTimeZone(TimeZone.getTimeZone("EST"));
+            Date d = givenTimeFormat.parse(time.toString());
+            System.out.println("i/p date:"+ d);
+            op = reqdFormat.format(d);
+
+        } catch (Exception e) {
+            System.out.println("ExportServiceImpl - Error parsing date: " + e.toString());
+            //return date;
+        }
+        System.out.println("o/p:"+ op);
+    }
+
+    public static void existingMethod() throws ParseException {
+
+        SimpleDateFormat givenTimeFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS");
+        String inputTime ="2022-07-01 07:33:42.227"; //UTC Time
+        String result = "";
+        int offsetValue = 14400000; // in milliseconds
+        SimpleTimeZone tz = null;
+
+            tz = new SimpleTimeZone(-1 *offsetValue, "Browser_Request_Timezone");
+        Date now = givenTimeFormat.parse(inputTime);
+        DateFormat sdf = null;
+        sdf = new SimpleDateFormat("MM-dd-yyyy hh.mm.ss a z");
+        //sdf.setTimeZone(TimeZone.getTimeZone("IST"));
+        ((DateFormat)sdf).setTimeZone(tz);
+        String dtString = ((DateFormat)sdf).format(now);
+        System.out.println(dtString);
+    }
+
+    public static void UsingZoneOffset() {
+        ZoneOffset zoneOffSet = ZoneOffset.ofTotalSeconds(14400);
+
+        System.out.println(zoneOffSet);
+        ZoneId zoneId = ZoneId.ofOffset("UTC",zoneOffSet);
+
+        String INPUT_DATE_FORMAT = "yyyy-MM-dd HH:mm:ss.SSS";
+        String OUTPUT_DATE_FORMAT= "dd-MM-yyyy HH:mm:ss a z";
+
+        String dateInString = "2018-03-25 01:55:42.227";
+        LocalDateTime ldt = LocalDateTime.parse(dateInString, DateTimeFormatter.ofPattern(INPUT_DATE_FORMAT));
+
+        ZonedDateTime UTCZonedDateTime = ZonedDateTime.of(ldt,ZoneId.of("UTC"));
+        ZonedDateTime output = UTCZonedDateTime.withZoneSameInstant(zoneId);
+
+        System.out.println(output);
+        ZoneId.getAvailableZoneIds().stream().forEach(System.out::println);
+    }
+
+    public static void  serverCheck() {
+        String INPUT_DATE_FORMAT = "yyyy-MM-dd HH:mm:ss.[SSS][SS][S]";
+        String OUTPUT_DATE_FORMAT = "dd-MM-yyyy HH:mm:ss a z";
+
+            //ZoneId clientZoneId = ZoneId.of(timeZoneId);
+            String time = "2018-03-25 01:55:42.227";
+            LocalDateTime ldt = LocalDateTime.parse(time.toString(), DateTimeFormatter.ofPattern(INPUT_DATE_FORMAT));
+        /*System.out.println(ldt);
+        ZonedDateTime UTCZonedDateTime = ZonedDateTime.of(ldt, ZoneId.of(TimeZone.getDefault().getID()));
+        System.out.println(UTCZonedDateTime);
+        ZonedDateTime newTime = UTCZonedDateTime.withZoneSameInstant(ZoneId.of("UTC"));
+        System.out.println(newTime);
+        System.out.println(Calendar.getInstance().getTime());
+        System.out.println(TimeZone.getDefault().toZoneId());*/
+        ZoneId.getAvailableZoneIds().stream().forEach(System.out::println);
+    }
+
+
+    public static void checkSumPair() {
+        List<Integer> list1 = Arrays.asList(1, 5, 7, -1, 9, 10, -3);
+        int sum = 6;
+        Map<Integer, Integer> diff = list1.stream().collect(Collectors.toMap(x -> x, x -> sum - x));
+
+        //System.out.println(diff);
+        Map<Integer, Integer> resultMap = new HashMap<>();
+
+        list1.stream().forEach(x -> {
+            if (list1.contains(diff.get(x))) {
+                System.out.println("pair:" + x + ":" + diff.get(x));
+                if (resultMap.get(x) == null && resultMap.get(6 - x) == null)
+                    resultMap.put(x, diff.get(x));
+            }
+        });
+        System.out.println(resultMap);
+        List<Integer> list2 = Arrays.asList(0,1,1,0,1,0,1,0);
+        System.out.println(list2.stream().filter(x->x==0).count());
+
+
+
+ boolean flag=true;
+        if(flag=false) { //THE EXPRESSION INSIDE IS EVALUATED FIRST AND THEN USED sSO IT PRINTS THE ELSE LOOP
+            System.out.println("true");
+        } else {
+            System.out.println("false");
+        }
+
+
+         /* Object obj   = new Integer(5);
+               String str = (String)obj;
+                System.out.println(str);*/
+
+                /*Integer[][] x = {{10,12,14},{null},{18,20,22}};
+                System.out.println(x[1][1].intValue());*/
+               /*int a[] ={1,2,3,4,5};
+               for(int i=1;i<=5;++i) {
+                   System.out.println(a[i]);
+               }*/
+                int a=1;
+                for( a=0;a<10;a++){
+                    break;
+                }
+                System.out.println("A:"+a);
+                int b=0;
+                for(b=0;b<10;b++ ){
+                    continue;
+                }
+                System.out.println("B:"+b);
+
+
+
+                /*ArrayList list = new ArrayList();
+               list.add("test");
+               list.add(7);
+                list.stream().forEach(x-> System.out.println(x.getClass()+"--"+x));*/
+
+              /*  List<Integer> ls1 = Arrays.asList(1, 13, 25, 66, 13, 1, 9, 0, 1, 11);
+
+              Map<Integer,Long> hm = ls1.stream().collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
+                //System.out.println(hm);
